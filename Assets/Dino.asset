@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 111c57f3dfc3eb843af9e5a95f3cb12d, type: 3}
+  m_Name: Dino
+  m_EditorClassIdentifier: 
+  mapObjects:
+  - {fileID: 3987906317146370518, guid: b1b906945ec59ed489c8c2ba6804063d, type: 3}
+  - {fileID: 2787794746184634006, guid: 3d465170aa4d3a44e818126aff102b57, type: 3}
+  - {fileID: 18438460217883859, guid: 7ec4de6075b62e74184da8de1c387cc8, type: 3}
+  - {fileID: 2031924550232316893, guid: 99d059229c8b18a43972368a0ca8214c, type: 3}
