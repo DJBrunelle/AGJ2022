@@ -7,6 +7,11 @@ TagManager:
   - Ground
   - Tree
   - Bird
+  - MiniGame
+  - NotCool
+  - Cool
+  - Recycle
+  - Trash
   layers:
   - Default
   - TransparentFX
